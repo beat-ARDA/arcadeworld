@@ -1,0 +1,242 @@
+{
+    "frames": [
+        {
+            "filename": "vulture_v17",
+            "frame": {
+                "w": 35,
+                "h": 42,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v16",
+            "frame": {
+                "w": 49,
+                "h": 36,
+                "x": 0,
+                "y": 42
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v15",
+            "frame": {
+                "w": 58,
+                "h": 30,
+                "x": 0,
+                "y": 78
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v14",
+            "frame": {
+                "w": 63,
+                "h": 23,
+                "x": 0,
+                "y": 108
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v13",
+            "frame": {
+                "w": 59,
+                "h": 30,
+                "x": 0,
+                "y": 131
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v11",
+            "frame": {
+                "w": 36,
+                "h": 49,
+                "x": 0,
+                "y": 161
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v12",
+            "frame": {
+                "w": 50,
+                "h": 39,
+                "x": 0,
+                "y": 210
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v10",
+            "frame": {
+                "w": 26,
+                "h": 54,
+                "x": 0,
+                "y": 249
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v9",
+            "frame": {
+                "w": 28,
+                "h": 53,
+                "x": 0,
+                "y": 303
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v7",
+            "frame": {
+                "w": 53,
+                "h": 43,
+                "x": 0,
+                "y": 356
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v8",
+            "frame": {
+                "w": 38,
+                "h": 48,
+                "x": 0,
+                "y": 399
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v6",
+            "frame": {
+                "w": 62,
+                "h": 32,
+                "x": 0,
+                "y": 447
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v5",
+            "frame": {
+                "w": 65,
+                "h": 29,
+                "x": 0,
+                "y": 479
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v4",
+            "frame": {
+                "w": 63,
+                "h": 31,
+                "x": 0,
+                "y": 508
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v3",
+            "frame": {
+                "w": 61,
+                "h": 31,
+                "x": 0,
+                "y": 539
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v1",
+            "frame": {
+                "w": 33,
+                "h": 48,
+                "x": 0,
+                "y": 570
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v18",
+            "frame": {
+                "w": 26,
+                "h": 42,
+                "x": 0,
+                "y": 618
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vulture_v2",
+            "frame": {
+                "w": 39,
+                "h": 45,
+                "x": 0,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
